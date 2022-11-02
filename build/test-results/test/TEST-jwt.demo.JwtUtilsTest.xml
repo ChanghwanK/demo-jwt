@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jwt.demo.JwtUtilsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-02T09:38:39" hostname="changhwan.local" time="0.159">
+  <properties/>
+  <testcase name="getAccessToken()" classname="jwt.demo.JwtUtilsTest" time="0.159"/>
+  <system-out><![CDATA[token: eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyRW1haWwiOiJ0ZXN0QHRlc3QuY29tIiwiZXhwIjoxNjY3MzgyNTI0fQ.pTHqlHtEqcQA22j-TGzeZ-nZ6T0QWOXLpI4zck5rMhk
+claims: {userEmail=test@test.com, exp=1.667382524E9}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
